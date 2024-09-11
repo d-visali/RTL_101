@@ -3,4 +3,4 @@
 
 Unable to do last task ,  because i'm unable to download Vitis in my laptop
 
-Tried many times by ,even reinstalling.
+Tried many times ,even by reinstalling the whole Software.
